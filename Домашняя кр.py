@@ -1,3 +1,4 @@
+# Хлістунов Данііл ІПЗ-19/9
 from re import sub  
 
 class NameConverter():
